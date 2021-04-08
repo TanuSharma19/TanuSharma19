@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android App development**
 
-- ⚡ Fun fact **People often call me an alien**
+- ⚡  **Exploring the programming world to learn more!!**
 
 ## 📚 My Skills
 
