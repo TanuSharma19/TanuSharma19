@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Tanu Sharma.
-- 👀 I’m interested in  Computer programming.
-- 🌱 I’m currently learning java and Android app development.
-- 💞️ I’m a student Looking for a job, I will just going to complete my Post Graduation in M.C.A in 2021.
+## Tanu sharma..
+## 🧔 About Me
 
+- 🔭 I’m currently working on [css-art-gallery](https://github.com/salil-naik/css-art-gallery)
 
-<!---
-TanuSharma19/TanuSharma19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Android App development**
+
+- ⚡ Fun fact **People often call me an alien**
+
+## 📚 My Skills
+
+![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+## 🤝 Connect
+
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanu-sharma-185739178)
+[![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanusharma19)
