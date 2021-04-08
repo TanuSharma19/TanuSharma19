@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tanu Sharma
-- 👀 I’m interested in  Computer programming
+- 👋 Hi, I’m Tanu Sharma.
+- 👀 I’m interested in  Computer programming.
 - 🌱 I’m currently learning java and Android app development.
 - 💞️ I’m a student Looking for a job, I will just going to complete my Post Graduation in M.C.A in 2021.
 
