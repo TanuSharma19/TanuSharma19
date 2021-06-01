@@ -1,7 +1,7 @@
 ## Tanu sharma..
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [css-art-gallery](https://github.com/salil-naik/css-art-gallery)
+
 
 - 🌱 I’m currently learning **Android App development**
 
