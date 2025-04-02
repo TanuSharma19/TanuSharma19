@@ -13,6 +13,7 @@
 ![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Skill](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 🤝 Connect
 
